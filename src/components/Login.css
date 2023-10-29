@@ -1,0 +1,52 @@
+*{
+    margin:0;
+    padding:0;
+}
+.forms{
+    display:flex;
+    justify-content:center;
+    align-items : center;
+    color:white;
+    width:100vw;
+    height:100vh;
+    background-color: rgb(51, 50, 50);
+}
+form{
+    border: 2px solid white;
+    text-align:center;
+    padding:1.2rem;
+    background-image: linear-gradient(to middle right , )
+}
+form div{
+    margin:1.2rem;
+}
+input{
+    font-size:1.2rem;
+    color:black
+}
+label{
+    color:white;
+    font-size:1.2rem;
+}   
+h1{
+    font-size: 3rem;
+    color:white;
+    margin-bottom:3.2rem;
+}
+button{
+    padding:0.3rem;
+    margin:0.7rem;
+    width:100%;
+}
+span{
+    color:rgb(37, 37, 231);
+    cursor : pointer;
+}
+div p{
+    color:white;
+} 
+.error{
+    color:red;
+}
+
+ 
